@@ -10,10 +10,6 @@ h3 {
 	font-size: 19px;
 }
 
-#footer {
-	position: fixed;
-	bottom: 0;
-}
 .center {
 	text-align: center;
 }
@@ -29,3 +25,5 @@ h3 {
 .salmon {
 	background-color: #FBCBC0;
 }
+
+
